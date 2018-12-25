@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#247ddc</item>
+        <item name="colorPrimaryDark">#247ddc</item>
+        <item name="colorAccent">#212121</item>
+        <item name="android:windowActivityTransitions">true</item>
+    </style>
+</resources>

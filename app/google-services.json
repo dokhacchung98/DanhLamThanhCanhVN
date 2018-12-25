@@ -1,0 +1,117 @@
+{
+  "project_info": {
+    "project_number": "938992808211",
+    "firebase_url": "https://khacchung-firebase.firebaseio.com",
+    "project_id": "khacchung-firebase",
+    "storage_bucket": "khacchung-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938992808211:android:5be43fe4c67d3cb2",
+        "android_client_info": {
+          "package_name": "com.example.administrator.tesstmeme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "938992808211-4pgcoo0g4krnp1jnonfb4rmjg17mt14n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXYx8AAZvbyl9WRQJHt0SNFxODCaww9nQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938992808211:android:a944c56baa56ac92",
+        "android_client_info": {
+          "package_name": "com.example.administrator.testmes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "938992808211-4pgcoo0g4krnp1jnonfb4rmjg17mt14n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXYx8AAZvbyl9WRQJHt0SNFxODCaww9nQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938992808211:android:a01dcb5e51ea2861",
+        "android_client_info": {
+          "package_name": "khacchung.com.danhlamthangcanh1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "938992808211-4n979r6egrtvh2st1od2ft1tc5lo8hvr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "khacchung.com.danhlamthangcanh1",
+            "certificate_hash": "65082739fdfc71b379a9caf2fd9e4ae2359ab2d5"
+          }
+        },
+        {
+          "client_id": "938992808211-4pgcoo0g4krnp1jnonfb4rmjg17mt14n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXYx8AAZvbyl9WRQJHt0SNFxODCaww9nQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "938992808211-4pgcoo0g4krnp1jnonfb4rmjg17mt14n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

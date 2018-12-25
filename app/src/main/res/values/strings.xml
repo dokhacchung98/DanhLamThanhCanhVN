@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DanhLamThangCanh1</string>
+    <string name="dltc">Danh Lam Thắng Cảnh Hà Nội</string>
+    <string name="read">Read…</string>
+    <string name="google_maps_key">AIzaSyDsSRWXH8Df49d6kL3Gl8HrQjzaWMWTZkI</string>
+    <string name="title_activity_maps">google map</string>
+    <string name="title_activity_maps2">Map</string>
+    <string name="vao">Bạn đã vào khu vực</string>
+    <string name="url">https://firebasestorage.googleapis.com/v0/b/khacchung-firebase.appspot.com/o/</string>
+</resources>
